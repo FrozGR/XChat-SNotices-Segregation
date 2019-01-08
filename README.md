@@ -1,4 +1,4 @@
-# Server Notices Segregation perl script for XChat
+# Server Notices Segregation perl script for XChat IRC Client
 
 #####################################################
 ##						  						                       ##
